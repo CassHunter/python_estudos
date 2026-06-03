@@ -9,7 +9,7 @@ print(f'{3 + 2 + 1 - 5 + 4 % 2 -1 / 4 + 6:.1f}')
 
 print("Is it true that 3 + 2 < 5 -7")
 
-print(f'{3 + 2 < 5 -7:.1f}')
+print(f'{3 + 2 < 5 -7}')
 print(f"What is 3 + 2?, {3+2:.1f}")
 print(f"What is 5 - 7?, {5-7:.1f}")
 
